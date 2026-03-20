@@ -27,20 +27,6 @@ https://cdn.discordapp.com/attachments/1431443359129407549/1484492980935987270/2
 
 ---
 
-## Requirements
-
-```bash
-pip install requests colorama pycryptodome
-```
-
----
-
-## Usage
-
-```bash
-python main.py
-```
-
 - Press I → settings  
 - Press ENTER → start  
 - Press G → dev mode  
