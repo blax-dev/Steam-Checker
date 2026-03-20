@@ -6,7 +6,7 @@ Fast Steam account checker focused on Family Sharing eligibility.
 
 ## Demo
 
-<video src="https://cdn.discordapp.com/attachments/1431443359129407549/1484492980935987270/2026-03-20_11-02-36.mp4?ex=69be6d53&is=69bd1bd3&hm=87434911102446ada0a3c8770af21f0e1d39515d8bb6642cfab4b82e9355a211&" controls width="700"></video>
+[![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Demo-green?style=for-the-badge)](https://cdn.discordapp.com/attachments/1431443359129407549/1484492980935987270/2026-03-20_11-02-36.mp4?ex=69be6d53&is=69bd1bd3&hm=87434911102446ada0a3c8770af21f0e1d39515d8bb6642cfab4b82e9355a211&)
 
 ---
 
